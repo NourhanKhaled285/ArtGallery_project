@@ -1,0 +1,62 @@
+source code of the vedio
+ https://syntechsl.blogspot.com/p/buy-...
+source code 2
+ https://bit.ly/2R4o04F
+source code
+ https://syntechsl.blogspot.com/search...
+---------------------------------------------------------------------
+Library management system-01       https://youtu.be/346-B2suGWI
+Library management system-02   https://youtu.be/StSTaarD2c4
+Library management system-03  https://youtu.be/Ok3GfdulJW0
+Library management system-04  https://youtu.be/N5xiC--w75o
+Library management system-05  https://youtu.be/FUe30qYoFe8
+Library management system-06  https://youtu.be/o2jjTfXt69A
+Library management system-07  https://youtu.be/WLzFfe9Sr7k
+Library management system-08  https://youtu.be/xjGxL1iGxDc
+Library management system-09  https://youtu.be/GnUMC0MbfzA
+Library management system-10  https://youtu.be/mysyapk7flk
+Library management system-11  https://youtu.be/uyTU5v8dcTI
+Library management system-12  https://youtu.be/KueP76jTJ28
+Library management system-13  https://youtu.be/4Do3gf1cHPo
+Library management system-14  https://youtu.be/9oCZKrUuML8
+Library management system-15  https://youtu.be/_aHIHZwSX94
+Library management system-16  https://youtu.be/Iw1rHfEYGd4
+
+--------------------------------------------------------------------------------------
+
+
+How make trial Product (Mke application Expier date) https://youtu.be/bQ7cgjMKbzA
+Mysql database backup    https://youtu.be/Mma8bRA54ac
+Connect netbeans IDE to mysql(wamp) server       https://youtu.be/j_UCEuvuJk0
+Database data bind to jcombo box   https://youtu.be/Orc7Gwk6o3I
+Date and Time display on JFrame   https://youtu.be/5waH0nIeYNo
+GUI design      https://youtu.be/nmOIvoKyhnE
+How add button icons to button     https://youtu.be/udGlzMKsRUU
+Design login form     https://youtu.be/29D_vJDn7m4
+password hide and show in jTextfiled using jCheck box  https://youtu.be/LqS1ie7-rJk
+How design two or more interface in single jFrame.   https://youtu.be/66Vg-eechFw
+How lord other interface(jFrame) with button click   https://youtu.be/IoFzsNdTxE8
+How enable and disable java netbeans application button  https://youtu.be/iL95p8MPzTQ
+How delete data from mysql database   https://youtu.be/cqag0CkEGFM
+How insert data to mysql database(wamp server)  https://youtu.be/n8ctZK2PDQA
+Update mysql database data using java application   https://youtu.be/UNiYU0NjiQI
+How create java Login Form With Database Connection https://youtu.be/oFnqWdyADHU
+Generate auto id in java interface    https://youtu.be/ucEj-aVdHoc
+bind mysql database data to jTable    https://youtu.be/9AlIv_R4TzM
+jTable data set to text field with mouse click   https://youtu.be/QIMf9Bh9eKI
+How to set default main class in java project  https://youtu.be/vszawDsEJlc
+How to make the Jar file for the Netbeans Java Project https://youtu.be/3qxJXjlCk1c
+How To display Image From Mysql Database  https://youtu.be/exBfZfMZhRo
+How to insert Image in MySQL Database    https://youtu.be/D0x_azjFEg4 
+
+-----------------------------------------------------------------------------------------------
+My other complete Project
+
+Inventory control system   https://youtu.be/ZrH6430bm_Y
+Computer service center management system https://youtu.be/Px52s3ztroU
+java calculator with source code - full tutorial  https://youtu.be/U-qO0N4hDKo
+ Restaurant management system.   https://youtu.be/jzSxszQXoAU
+billing system with source code   https://youtu.be/3xAM-Bmr4yw
+java Photo album     https://youtu.be/nmKVZxCi69g
+
+image gallery project in java with source code
